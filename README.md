@@ -10,6 +10,9 @@ mongodb数据库位置  F:data/db
 
 # 使用
 git clone
+
 npm install
+
 cmd进入数据库文件夹，mongod命令启动服务
+
 node app.js
